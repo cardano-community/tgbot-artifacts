@@ -1,0 +1,248 @@
+{
+  "-1001151395371": {
+    "custwelcome": "Welcome ##uname## to Cardano Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you first\\!\\!",
+    "lang": "en",
+    "name": "cardano_india",
+    "tags": ["all", "verify", "en", "3rdparty", "swearing", "coins"],
+    "torelay": "yes"
+  },
+  "-1001153678983": {
+    "lang": "en",
+    "name": "buildtherobot",
+    "tags": ["all", "en", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001162755720": {
+    "custwelcome": "Welkom ##uname## bij de Cardano Community\\.\n\nWe vragen je te verifiëren bij \\@Charlie\\_Cardano\\_bot door [hier te klikken](https://t.me/Charlie_Cardano_bot?start=nl) zodat je berichten kunt plaatsen\\!\n\nBelangrijk, alleen oplichters\\/imitators sturen jou rechtstreeks berichten \\(PM\\/DM\\)\\!\\!",
+    "lang": "nl",
+    "name": "cardanodutchofficial",
+    "tags": ["all", "nl", "official", "3rdparty", "swearing", "coins", "verify"],
+    "torelay": "yes"
+  },
+  "-1001164691396": {
+    "custwelcome": "Welcome ##uname## \\!\\!\n\nPlease describe as much details as possible about your issue, note that community members may not always be online to support, but will get to your issue as soon as possible\\!\\!",
+    "lang": "en",
+    "name": "cardanocommunitytechsupport_priv",
+    "tags": ["all", "verify", "strictverify", "en", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001166689117": {
+    "custwelcome": "Welcome ##uname## to Cardano Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "cardanostakepoolworkgroup",
+    "tags": ["all", "en", "official", "3rdparty", "swearing", "coins", "del_response", "verify"],
+    "torelay": "yes"
+  },
+  "-1001170266034": {
+    "custwelcome": "Welcome ##uname## to Cardano Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you first\\!\\!",
+    "lang": "en",
+    "name": "cardanonorthamericaofficial",
+    "tags": ["all", "en", "official", "3rdparty", "swearing", "coins", "verify"],
+    "torelay": "yes"
+  },
+  "-1001177105576": {
+    "custwelcome": "Willkommen in der Cardano Community ##uname##\\.\n\nBitte verifiziere dich gegen\u00fcber [Charlie](https://t.me/Charlie_Cardano_bot?start=de) um entmuted zu werden\\!\n\nDenkt daran, nur Betr\u00fcger werden euch pers\u00f6nlich anschreiben\\!\\!",
+    "lang": "de",
+    "name": "cardanogermanofficial",
+    "tags": ["all", "de", "official", "3rdparty", "swearing", "coins", "verify"],
+    "torelay": "yes"
+  },
+  "-1001185077268": {
+    "custwelcome": "欢迎 ##uname## 来到Cardano社区\\.\n\n请通过完成验证[Charlie](https://t.me/Charlie_Cardano_bot?start=zh) 点击这里关闭提醒\\!\n\n注意，只有骗子与冒充者会主动向你发送私信\\!\\!",
+    "lang": "zh",
+    "name": "cardanochinaofficial",
+    "tags": ["all", "zh", "official", "3rdparty", "swearing", "coins", "verify"],
+    "torelay": "yes"
+  },
+  "-1001195341475": {
+    "lang": "en",
+    "name": "cardanosouthasia",
+    "tags": ["all", "3rdparty", "swearing", "coins"],
+    "torelay": "yes"
+  },
+  "-1001202893218": {
+    "lang": "en",
+    "name": "cardanocommunitytechsupportlobby",
+    "tags": ["all", "nowelcome", "en"],
+    "torelay": "yes"
+  },
+  "-1001204782942": {
+    "lang": "en",
+    "name": "cardanoofficialchannelsmoderationlogs",
+    "tags": ["log"],
+    "torelay": "yes"
+  },
+  "-1001205929298": {
+    "lang": "en",
+    "name": "projectcatalystchat",
+    "tags": ["all", "nowelcome", "official", "swearing"],
+    "torelay": "yes"
+  },
+  "-1001213451961": {
+    "custwelcome": "##uname## さん、Cardanoコミュニティへようこそ。\n\nミュートを解除するには、[Charlie](https://t.me/Charlie_Cardano_bot?start=jp) をクリックして認証を進めてください。\n\nあなたに直接メッセージを送ってくるのは、詐欺師やなりすましだけであることを忘れないでください\\!",
+    "lang": "jp",
+    "name": "cardanojapanofficial",
+    "tags": ["all", "jp", "official", "3rdparty", "swearing", "coins","verify"],
+    "torelay": "yes"
+  },
+  "-1001214478062": {
+    "custwelcome": "Welcome ##uname## to Cardano Stake Pool Advertisements group\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "adastakepools",
+    "tags": ["all", "swearing", "verify"],
+    "torelay": "yes"
+  },
+  "-1001218853922": {
+    "lang": "en",
+    "name": "cardano_indonesia",
+    "tags": ["all"],
+    "torelay": "no"
+  },
+  "-1001233568569": {
+    "custwelcome": "Welcome ##uname## to Cardano UK Telegram Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "cardanouk",
+    "tags": ["all", "nodelete", "en", "verify"],
+    "torelay": "yes"
+  },
+  "-1001255553449": {
+    "custwelcome": "Welcome ##uname## to the Cardano Australia channel\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "cardanoaustralia",
+    "tags": ["all", "en", "price", "verify"],
+    "torelay": "yes"
+  },
+  "-1001274909620": {
+    "custwelcome": "Welcome ##uname## to Cardano Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you first\\!\\!",
+    "lang": "en",
+    "name": "cardanodevelopersofficial",
+    "tags": ["all", "en", "official", "3rdparty", "verify", "swearing", "coins"],
+    "torelay": "yes"
+  },
+  "-1001280372340": {
+    "custwelcome": "Welcome ##uname## to Cardano Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "cardanoreporttoadmin",
+    "tags": ["all", "en", "official", "verify", "report"],
+    "torelay": "yes"
+  },
+  "-1001287785596": {
+    "custwelcome": "Welcome ##uname## to Cardano Community Marketplace\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "cardanocommunitymarketplace",
+    "tags": ["all", "verify", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001289029880": {
+    "custwelcome": "Welcome to STR8 pool, ##uname## \\! \n\n\ud83d\ude4f Please take a moment and familiarize yourself with the most important info: \ud83d\udc47\n\n\u27a1\ufe0f This is the support group for all delegators, if you are delegating to STR8 or plan to do so, you are in the right place\\. Any delegation to STR8 is highly appreciated\\! \ud83d\ude4f \n\u27a1\ufe0f If you are new to staking, please do check out the \"Where can I learn more about all of this\\?\" section at the bottom of the [website](https://straightpool.github.io/about)\\. Here you will find e\\.g\\. a video on when you will receive first rewards after freshly delegating to STR8\\.\n\u27a1\ufe0f Please do check the pinned message periodically for relevant updates\\.\n\u27a1\ufe0f ADA token price discussions are best held [here](https://t.me/CardanoTradingOfficial)\\.\n\u27a1\ufe0f We created a side channel STR8 Talk as a playground for our great delegators to relax and discuss other topics\\. Join today and dont miss out on the latest chit\\-chat in crypto\\! [STR8\\_Talk](https://t.me/STR8_Talk)\n\nEnjoy your stay\\!\ud83d\udc4d",
+    "lang": "en",
+    "name": "str8pool",
+    "tags": ["all", "price", "nodelete"],
+    "torelay": "no"
+  },
+  "-1001289219103": {
+    "lang": "ko",
+    "name": "cardanokoreatrading",
+    "tags": ["all", "ko", "price", "swearing"],
+    "torelay": "yes"
+  },
+  "-1001292054740": {
+    "custwelcome": "Willkommen in der Cardano Community ##uname##\\.\n\nBitte verifiziere dich gegen\u00fcber [Charlie](https://t.me/Charlie_Cardano_bot?start=de) um entmuted zu werden\\!\n\nDenkt daran, nur Betr\u00fcger werden euch pers\u00f6nlich anschreiben\\!\\!",
+    "lang": "de",
+    "name": "cardanotradinggerman",
+    "tags": ["all", "price", "de", "verify"],
+    "torelay": "yes"
+  },
+  "-1001297258293": {
+    "custwelcome": "Welcome ##uname## to Cardano Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "cardanotradingofficial",
+    "tags": ["all", "en", "official", "price", "3rdparty", "swearing", "coins", "del_response", "verify"],
+    "torelay": "yes"
+  },
+  "-1001297982405": {
+    "lang": "en",
+    "name": "cardanosecurityworkinggroup",
+    "tags": ["all", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001315639135": {
+    "lang": "en",
+    "name": "cardanokoreaofficial",
+    "tags": ["all", "3rdparty", "swearing", "coins"],
+    "torelay": "yes"
+  },
+  "-1001321374280": {
+    "custwelcome": "Welcome ##uname## to Cardano Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers\\/impersonators will message you directly\\!\\!",
+    "lang": "en",
+    "name": "cardano",
+    "tags": ["all", "en", "official", "3rdparty", "coins", "swearing", "verify"],
+    "torelay": "yes"
+  },
+  "-1001332629264": {
+    "custwelcome": "##uname## さん、Cardanoコミュニティへようこそ。\n\nミュートを解除するには、[Charlie](https://t.me/Charlie_Cardano_bot?start=jp) をクリックして認証を進めてください。\n\nあなたに直接メッセージを送ってくるのは、詐欺師やなりすましだけであることを忘れないでください\\!",
+    "lang": "jp",
+    "name": "cardanojapantrading",
+    "tags": ["all", "jp", "price", "3rdparty", "swearing", "coins", "verify"],
+    "torelay": "yes"
+  },
+  "-1001334090748": {
+    "custwelcome": "Welcome ##uname## to ##official## Telegram Community\\.\n\nPlease verify against \\@Charlie\\_Cardano\\_bot by [clicking here](https://t.me/Charlie_Cardano_bot?start=en) to get unmuted\\!\n\nRemember, only scammers/impersonators will message you first\\!\\!",
+    "lang": "en",
+    "name": "tstgrp1",
+    "tags": ["all", "price", "verify", "official", "tst", "del_response", "en", "3rdparty", "swearing", "coins", "log"],
+    "torelay": "yes"
+  },
+  "-1001349854949": {
+    "lang": "en",
+    "name": "adalite",
+    "tags": ["all", "nowelcome", "en", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001389262009": {
+    "custwelcome": "Welcome ##uname##\\!\n\nA place where communities from different walks of life can come together and innovate\\. The best stories, conversations and ideas are discovered when you buy that stranger at the bar a pint\\.\n\nRespect: free to give; priceless to receive\\!\n\nPlease support by delegating to *The Blue Orange* TBO",
+    "lang": "en",
+    "name": "cardanosocial",
+    "tags": ["all", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001401722443": {
+    "custwelcome": "Bem\\-vindo ##uname## \u00e0 Comunidade Cardano\\.\n\nPor favor verifique sue usu\u00e1rio clicando no [Charlie](https://t.me/Charlie_Cardano_bot?start=pt)\\!\n\nLembre\\-se\\,apenas golpistas\\/imitadores enviar\u00e3o mensagens no privado\\!\\!",
+    "lang": "pt",
+    "name": "cardanoportugueseofficial",
+    "oldcustwelcome": "Bem vindo ao grupo Oficial de L\u00edngua Portuguesa ##uname##\\! Administrado por membros da comunidade Cardano  \ud83e\udd29\n\n\ud83d\ude4f Por favor, pare por um momento e veja abaixo:\ud83d\udc47\n\n1\ufe0f\u20e3 VERIFIQUE\\. Os administradores NUNCA v\u00e3o enviar DM para voc\u00ea primeiro \\- os golpistas criam contas que SE PARECEM com as dos administradores\\. \ud83d\udea8\n2\ufe0f\u20e3 Leia Online nossas [Instru\u00e7\u00f5es de Seguran\u00e7a](https://forum.cardano.org/t/cardano-stay-safe-content-updated/28037) & [Diretrizes da Comunidade](https://t.me/CardanoAnnouncements/1077)\\. \ud83e\udd13\n3\ufe0f\u20e3 LEIA as mensagens fixadas para obter as atualiza\u00e7\u00f5es mais recentes\\! \u2b06\ufe0f\n\nAproveite a estadia\\! \ud83d\udc4d",
+    "tags": ["all", "3rdparty", "swearing", "verify"],
+    "torelay": "yes"
+  },
+  "-1001449004310": {
+    "lang": "es",
+    "name": "cardanospanishofficial",
+    "tags": ["all", "es", "official"],
+    "torelay": "yes"
+  },
+  "-1001458948408": {
+    "lang": "en",
+    "name": "ehtindonesia",
+    "tags": ["all"],
+    "torelay": "no"
+  },
+  "-1001463001691": {
+    "lang": "en",
+    "name": "cardanogovernanceofficial",
+    "tags": ["all", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001495138894": {
+    "lang": "en",
+    "name": "stackexchangeworkgroup",
+    "tags": ["all", "nodelete"],
+    "torelay": "yes"
+  },
+  "-1001585958756": {
+    "custwelcome": "Welcome ##uname## to Charlie Verification System\\!\n\nTo have your account unmuted in the Cardano channels:\n\n1\\. Create a forum account [here](https://forum.cardano.org/)\\.\n\n2\\. Type /start directly to \\@Charlie\\_Cardano\\_bot by clicking [here](https://t.me/Charlie_Cardano_bot?start=en)\\. Read and follow the steps carefully\\!\n\n If you\\'re still facing an issue\\, please provide as much details as possible",
+    "lang": "en",
+    "name": "charlieverificationsystem",
+    "tags": ["all"],
+    "torelay": "yes"
+  }
+}

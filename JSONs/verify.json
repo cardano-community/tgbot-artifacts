@@ -1,0 +1,99 @@
+{
+  "start": {
+    "en": "Hi there\\!\n\n Apologies for the inconvenience\\. Unfortunately, telegram platform is extremely susceptible to scammers *_impersonating admins_* who message users privately\\.\n\nTo protect yourself, please complete this _1\\-time verification using your cardano forum account ID_ to help reduce the influx of bots on our groups\\.\n\nBy agreeing below, you *_ __acknowledge that you understand any private message sent to you is from an impersonator\\/scam__ _* and agree to follow [community guidelines](https://t.me/CardanoAnnouncements/1077) \\.\n\nAny issues with the verification process \\- you can join [this](https://t.me/joinchat/AALr-4ucKTNlODY9) group for assistance\\!\\!",
+    "es": "¡Hola\\!\n\n Lamentamos la molestia\\. Desafortunadamente, Telegram es vulnerable a los estafadores *_haciéndose pasar por administradores_* que envían mensajes privados\\.\n\nEn aras de protegerse, por favor complete esta _única verificación en tiempo real usando su ID de cuenta del foro de Cardano_ para ayudar a reducir la entrada de bots en nuestros grupos\\.\n\nAl aceptar a continuación, usted *_ __reconoce que entiende que cualquier mensaje privado que se le envíe proviene de un imitador\\/estafador__ _* y se compromete a seguir las [reglas de la comunidad](https://t.me/CardanoAnnouncements/1077) \\.\n\nAnte cualquier problema o duda durante este proceso de verificación\\. Usted puede entrar a [este](https://t.me/joinchat/AALr-4ucKTNlODY9) grupo para obtener ayuda\\!\\! \n\nNota: Sí usted solo habla español, etiquete al usuario enapoles en su mensaje para ser atendido en ese idioma\\.",
+    "zh": "你好\\!\n\n 抱歉给你带来的不便\\. Telegram上充斥着大量的骗子私信与垃圾消息\\.\n\n为了更安全的进行使用，请先完成以下认证 1\\-请使用你的Cardano论坛ID来进行认证\\.\n\n 你 * 知晓任何主动发于你的私信都有可能是来自假冒者或\\/欺诈信息 * 你同意遵循 [社区规范](https://t.me/CardanoAnnouncements/1077) \\.\n\n验证过程中如遇问题请 \\- 加入[这里](https://t.me/joinchat/AALr-4ucKTNlODY9) 寻求帮助\\!\\!",
+    "jp": "こんにちは\\!\n\n ご不便をおかけし申し訳ありません\\. 残念ながらテレグラムは個人メッセージを送る詐欺師 *_管理者のなりすまし_* の影響を非常に受けやすくなっています\\.\n\n自分自身を守るために、次を完了してください。 _1\\-CardanoフォーラムのアカウントID_ を利用した認証で私たちのグループへボット流入を減らすことができます\\.\n\n以下に同意することにより *_ __あなたはあなたに送信されたプライベートメッセージがなりすまし者か\\/詐欺からのものであることを理解していることを確認し__ _* 次のコミュニティガイドラインに従うことを認めます。 [コミュニティガイドライン](https://t.me/CardanoAnnouncements/1077) \\.\n\n検証プロセスに関する問題があった場合 \\- [ここ](https://t.me/joinchat/AALr-4ucKTNlODY9) のグループに参加してサポートを受けることができます\\!\\!",
+    "de": "Hey\\!\n\n Entschuldigung für die Unannehmlichkeiten\\. Leider ist die Telegram\\-Plattform extrem anfällig für Betrüger, die sich als Admins ausgeben und Benutzern private Nachrichten schicken\\.\n\nUm dich zu schützen, bitten wir dich diese einmalige Verifizierung durchzuführen, indem du uns deine Forenaccount ID mitteilst\\. Dies hilft die Gruppe etwas sicherer zu halten\\.\n\nWenn du unten zustimmst, dann *_ __bestätigst du, dass du dir bewusst bist, dass jegliche Nachrichten die dir persönlich geschickt werden wahrscheinlich von einem Betrüger sind__ _* und dass du unseren [community guidelines](https://t.me/CardanoAnnouncements/1077) befolgst \\.\n\nFalls du Probleme mit dem Verifizierungsprozess hast, \\- dann tritt [dieser](https://t.me/joinchat/AALr-4ucKTNlODY9) Gruppe bei\\!\\!",
+    "pt": "Olá \\\n\nDesculpas pelo inconveniente\\. Infelizmente, a plataforma do Telegram é extremamente suscetível aos golpistas *_pessoas se passando por admins_* que enviam mensagens aos usuários via DM\\.\n\nPara  se proteger, por favor, complete esta verificação _1\\-vez usando sua conta do fórum cardano  ID_ para ajudar a reduzir o fluxo de bots em nossos grupos\\.\n\nAo concordar abaixo, você *_ __reconhece que você entendeu que qualquer mensagem privada enviada a você é de um imitador\\/scam__ _* e concorda em seguir [as diretrizes da comunidade](https://t.me/CardanoAnnouncements/1077)\\.\n\nQualquer  problemas com o processo de verificação \\- você pode entrar [neste grupo](https://t.me/joinchat/AALr-4ucKTNlODY9) para assistência\\!\\!",
+    "nl": "Hallo daar\\!\n\n Excuses voor het ongemak\\. Helaas is het Telegram platform extreem gevoelig voor oplichters *_zich voordoen als beheerders_* die gebruikers privé berichten\\.\n\nOm jezelf te beschermen, voltooi deze _1\\-tijdige verificatie met je Cardano Forumaccount\\-ID_ om de toestroom van bots op onze groepen\\.\n\nDoor hieronder akkoord te gaan, *_ __erken je dat je begrijpt dat een privébericht dat naar jou is verzonden van een imitator is\\/scam__ _* en stem je ermee in om [communityrichtlijnen](https://t. me/CardanoAnnouncements/1077) \\.\n\nProblemen met het verificatieproces \\- je kunt lid worden van [deze](https://t.me/joinchat/AALr-4ucKTNlODY9) groep voor hulp\\!\\!"
+  },
+  "preverified": {
+    "en": "You have already been verified, you can directly join cardano groups\\!",
+    "es": "Ya usted ha sido verificado, puede acceder a los grupos de Cardano\\!",
+    "zh": "你已经通过验证，现在可以加入Cardano频道\\!",
+    "jp": "すでに確認済みです。Cardanoグループに直接参加できます\\!",
+    "de": "Du hast dich bereits verifizier und kannst der Gruppe direkt beitreten\\!",
+    "pt": "Você já foi verificado, agora poderá participar de grupos Cardano\\!",
+    "nl": "Je bent al geverifieerd, je kunt direct lid worden van Cardano groepen\\!"
+  },
+  "agree": {
+    "en": "Thank you! Please (re)enter your username from https://forum.cardano.org (you will need to create an account if it does not already exists).\nFor example, if your username on forum is userA, your reply should be as per below:\n `/forum userA`",
+    "es": "¡Gracias! Por favor (re)introduzca su nombre de usuario de https://forum.cardano.org (usted deberá crear una cuenta en caso de no tener una).\nPor ejemplo, si su nombre de usuario en el foro es usuarioA, su respuesta debe de ser la siguiente:\n `/forum usuarioA`",
+    "zh": "请(重新)填入你的论坛用户名 https://forum.cardano.org (如果你没有账号需要先进行创建).\n比如，你在论坛上的用户名是用户A，你就需要填入用户:\n `/forum userA`",
+    "jp": "ありがとうございました！ https://forum.cardano.org のユーザー名を（再）入力してください（アカウントがまだ存在しない場合は、アカウントを作成する必要があります）\nたとえば、フォーラムのユーザー名がuserAの場合、返信すべきメッセージは次のようになります。:\n `/forum userA`",
+    "de": "Danke! Bitte gib deinen Username von https://forum.cardano.org an.\nZ.B. wenn dein Username userA wäre, dann sollte deine Antwort an den Bot sein:\n `/forum userA`",
+    "pt": "Obrigado! Por favor (re)digite seu nome de usuário de https://forum.cardano.org.\nPor exemplo, se seu nome de usuário no fórum for userA,  sua resposta deve ser conforme abaixo:\n `/forum userA`",
+	  "nl": "Dank je! Voer uw gebruikersnaam (opnieuw) in vanaf https://forum.cardano.org (u moet een account aanmaken als deze nog niet bestaat).Voorbeeld: Als je gebruikersnaam op het forum bijvoorbeeld userA is, zou je antwoord als volgt moeten zijn:\n `/forum userA`"
+  },
+  "disagree": {
+    "en": "Sorry to hear that!\nIn case you change your mind in future, feel free to to start again using `/verify`",
+    "es": "Lamento escuchar eso!\nEn caso de que usted en un futuro cambie de opinión, puede volver a comenzar este proceso nuevamente escribiendo `/verify`",
+    "zh": "非常遗憾!\n如果你以后改变了主意，请随时重新开始使用 `/verify`",
+    "jp": "それを聞いて残念です!\n将来気が変わった場合は次のコマンドを打ってやり直してください `/verify`",
+    "de": "Falls du es dir noch mal anders überlegst, dann schreibe einfach noch mal `/verify`",
+    "pt": "Lamento ouvir isso!\n Caso você mude de ideia no futuro, sinta-se livre para  começar novamente usando `/verify`",
+    "nl": "Vervelend om dat te horen!\nMocht je in de toekomst van gedachten veranderen, voel je dan vrij om opnieuw te beginnen met `/verify`"
+  },
+  "forum": {
+    "en": "Almost there! I have sent you a one-time password on https://forum.cardano.org to validate that the forum ID you entered is actually yours. Please follow the process in the sent message!",
+    "es": "Ya casi terminamos! Le he enviado una contraseña de un solo uso (OPT) a https://forum.cardano.org para comprobar que el ID del foro que usted ha introducido es realmente suyo. Por facor, continue el proceso con el mensaje enviado.",
+    "zh": "即将完成!我已经在论坛上发送了一条单次密码给你的账号 https://forum.cardano.org 来验证此账号属于你本人，请根据信息内容完成验证!",
+    "jp": "ほぼあります！入力したフォーラムIDが実際にあなたのものであることを確認するために https://forum.cardano.org でワンタイムパスワードを送信しました。フォーラムへ送信されたメッセージのプロセスに従ってください！",
+    "de": "Gleich hast du es geschafft! Ich habe dir auf https://forum.cardano.org ein Einmalkenntwort geschickt, damit du deine Forum-ID bestätigen kannst. Bitte folge den Anweisungen in der Nachricht die ich dir geschickt habe!",
+    "pt": "Quase lá! Enviei uma senha única no https://forum.cardano.org para validar que o ID do fórum que você inseriu é na verdade seu. Por favor, siga o processo na mensagem enviada!",
+    "nl": "Je bent er bijna! Ik heb je een eenmalig wachtwoord gestuurd op https://forum.cardano.org om te valideren dat de forum-ID die je hebt ingevoerd echt van jou is. Volg het proces in het verzonden bericht op het forum!"
+  },
+  "reforum": {
+    "en": "You have already been sent an OTP on Cardano Forum with username : `##forumid##`. Please login to https://forum.cardano.org and check your private messages for further instructions.",
+    "es": "Se le acaba de enviar una contraseña de un solo uso (OPT) en el Foro Cardano con el nombre de usuario: `##forumid##`. Por favor, inicie sesión en https://forum.cardano.org y revise sus mensajes privados para obtener más instrucciones.",
+    "zh": "单次密码已发送至你的论坛账号 : `##forumid##`. 请登陆论坛 https://forum.cardano.org 进行查收并按要求完成后续步骤",
+    "jp": "Cardanoフォーラムでユーザー名を通じてワンタイムパスワードが送信されています : `##forumid##`. https://forum.cardano.org にログインし、プライベートメッセージで詳細な手順を確認してください。",
+    "de": "Dir wurde bereits ein Einmalkennwort im Cardano Forum gesendet mit dem Username : `##forumid##`. Bitte melde dich bei https://forum.cardano.org an und überprüfe deine Postfach für weitere Anweisungen.",
+    "pt": "Você já recebeu um OTP no Fórum Cardano com o nome de usuário : `##forumid##`. Faça login no https://forum.cardano.org e verifique suas mensagens privadas para obter mais instruções.",
+    "nl": "Je hebt al een OTP (One Time Password) ontvangen op Cardano Forum met gebruikersnaam: `##forumid##`. Log in op https://forum.cardano.org en controleer uw privéberichten voor verdere instructies."
+  },
+  "forumsyntax": {
+    "en": "Wrong Syntax\\!\\! Please use the format as below:\n`/forum userA`",
+    "es": "Formato incorrecto\\!\\! Por favor, utilice el siguiente formato:\n`/forum userA`",
+    "zh": "格式不正确\\!\\! 请采用以下格式:\n`/forum userA`",
+    "jp": "構文が間違っています\\!\\! 次の書き方の形式を使用してください:\n`/forum userA`",
+	  "nl": "Verkeerde invoer\\!\\! Gebruik het formaat zoals hieronder:\n`/forum userA`"
+  },
+  "foruminvalid": {
+    "en": "We could not find the mentioned user on Cardano Forum. Please CREATE an account on https://forum.cardano.org and ensure the format you're attempting is as per below:\n `/forum userA`",
+    "es": "No hemos podido encontrar en el foro de Cardano al usuario que usted ha dado. Por favor, cree una cuenta en https://forum.cardano.org y asegúrese de que el formato que está utilizando en su mensaje de respuesta es el siguiente:\n `/forum usuarioA`",
+    "zh": "我们在论坛上未能找到此账号。请在这里创建账号https://forum.cardano.org 并确保输入的保格式正确:\n `/forum userA`",
+    "jp": "Cardanoフォーラムで指定されたユーザーが見つかりませんでした。次のサイトでアカウントを作成してください https://forum.cardano.org そして、試している書き方が以下であることを確認してください:\n `/forum userA`",
+    "de": "Leider konnten wir keinen Benutzer mit der angegebenen ID finden. Bitte vergewissere dich, dass du sowohl einen korrekten Forum Benutzername, sowie auch in diesem Format angebeben hast :\n `/forum userA`",
+    "pt": "Não conseguimos encontrar o usuário mencionado no Fórum Cardano.  Certifique-se de que está usando um nome de usuário válido do fórum e certifique-se de que o formato que você está tentando está de acordo com abaixo:\n `/fórum userA`",
+  	"nl": "We konden de genoemde gebruiker niet vinden op Cardano Forum. MAAK een account aan op https://forum.cardano.org en zorg ervoor dat je het formaat gebruikt zoals hieronder:\n `/forum userA`"
+  },
+  "otp": {
+    "en": "Thank you! Your information has been verified and you can now return/re-join the cardano groups!\nPlease note that price/market/investment discussions are only allowed in @CardanoTradingOfficial!",
+    "es": "¡Gracias! Su información ha sido verificada y ahora puede usted regresar o re-unirse a los grupos de Cardano!\nPor favor, tenga en cuenta que los debates sobre precio, mercado e inversión sólo están permitidos en el grupo @CardanoTradingOfficial!",
+    "zh": "恭喜! 你已通过验证并可以加入cardano的社区!\n请注意关于 价格/市场/投资 讨论仅可在@CardanoTradingOfficial!",
+    "jp": "ありがとうございます！あなたの情報が確認され、Cardanoグループに戻り/再参加できるようになりました！",
+    "de": "Danke! Deine Angaben wurden bestätigt und du kannst jetzt der Cardano Gruppe beitreten!",
+    "pt": "Obrigado! Suas informações foram verificadas e agora você pode entrar/voltar aos grupos Cardano!",
+	  "nl": "Dank je! Jouw informatie is geverifieerd en je kunt nu terugkeren naar/opnieuw deelnemen aan de Cardano groepen!"
+  },
+  "otpfail": {
+    "en": "This does not look right, that is not the OTP sent to you on forum. Please double check your message",
+    "es": "Lo anterior no es correcto, esa no es la contraseña de un solo uso (OPT) que se le ha enviado al foro. Por favor, vuelva a comprobar su mensaje.",
+    "zh": "密码不正确，请检查确认",
+    "jp": "正しくないようです。フォーラムで送信されたワンタイムパスワードではありません。 メッセージを再確認してください。",
+    "de": "Dies schaut nicht korrekt aus. Dies ist nicht das Einmalkenntwort welches dir im Forum zugeschickt worden ist! Bitte überprüfe deine Nachricht im Forum nochmal.",
+    "pt": "Isso não parece certo, não é o OTP enviado para você no fórum. Por favor, verifique novamente sua mensagem",
+  	"nl": "Dat is niet het OTP (One Time Password) dat naar je op het forum is gestuurd. Controleer het bericht alsjeblieft nogmaals"
+  },
+  "otpnoforum": {
+   "en": "You need to start by providing a valid forum ID first before you can try verifying OTP",
+   "es": "Usted debe comenzar proporcionando una identificación válida en el foro antes de intentar verificar la contraseña de un solo uso (OPT)",
+   "zh": "请提供有效的论坛ID",
+   "jp": "ワンタイムパスワードの確認を試みる前に、まず有効なフォーラムIDを提供する必要があります",
+   "de": "Du bisst zuerst eine gültige Forum-ID angeben bevor du das Einmalkenntwort angibst",
+   "pt": "ocê precisa começar fornecendo um ID de fórum válido antes de tentar verificar OTP",
+   "nl": "Je moet eerst een geldige forum-ID opgeven voordat je het OTP (One Time Password) kunt verifiëren"
+  }
+}

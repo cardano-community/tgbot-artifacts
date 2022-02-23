@@ -1,0 +1,484 @@
+{
+  "bot": {
+    "en": {
+      "message": "Hello, I am a bot. I will never send you a private message, nor will I engage in conversation. Don't worry, it's nothing personal.",
+      "send": "no"
+    }
+  },
+  "projectcatalyst": {
+    "en": {
+      "message": "Please use @ProjectCatalystChat for catalyst related queries, and checkout the pinned messages of that group for common queries",
+      "send": "no"
+    },
+    "es": {
+      "message": "Por favor, utilice el grupo @ProjectCatalystChat para las consultas relacionadas con el Proyecto Catalyst, revise los mensajes fijados en ese grupo para consultas comunes",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "Catalyst\u95a2\u9023\u306b\u3064\u3044\u3066\u306f @ProjectCatalystChat \u3092\u5229\u7528\u3057\u3001\u4e00\u822c\u7684\u306a\u8cea\u554f\u306f\u305d\u306e\u30b0\u30eb\u30fc\u30d7\u306e\u30d4\u30f3\u7559\u3081\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+      "send": "yes"
+    }
+  },
+  "cfspo": {
+    "en": {
+      "message": "It is apparent that there was a change in CF delegation process, and the change is still underway in the current epoch. There will be an announcement soon about the change process from CF. We appreciate your patience until the details are shared",
+      "send": "no"
+    }
+  },
+  "community": {
+    "description": "Link to list community groups across platforms",
+    "en": {
+      "message": "You can find a list of Cardano Community across social media platforms [here](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Puede encontrar una lista de todos los canales de la Comunidad Cardano en las plataformas sociales [aqu\u00ed](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "Cardano\u95a2\u9023\u306eSNS\u306e\u30ea\u30b9\u30c8\u306f [\u3053\u3061\u3089](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Voc\u00ea pode encontrar uma lista da Comunidade Cardano em plataformas de m\u00eddia social [aqui](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "zh": {
+      "message": "\u4f60\u53ef\u4ee5\u5728\u8fd9\u91cc\u627e\u5230Cardano\u7684\u5b98\u65b9\u793e\u4ea4\u5a92\u4f53platforms [here](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    }
+  },
+  "countdown": {
+    "en": {
+      "message": "The alonzo fork was already submitted and protocol will be in Alonzo era at start of epoch 290. You can find the countdown [here](https://wen.pm/#goguen)",
+      "send": "no"
+    }
+  },
+  "delegation": {
+    "de": {
+      "message": "Weisst du nicht an welchen Pool du delegieren sollst? Schau dir unsere Hilfestellung [hier](https://cardano-community.github.io/support-faq/#/de/select-pool-to-delegate) an, welche dir bei der Entscheidung helfen soll.",
+      "send": "yes"
+    },
+    "description": "Guidance for Delegation FAQs",
+    "en": {
+      "message": "Confused about which pool to select? Please refer to these guidelines designed to assist with your decision making [here](https://cardano-community.github.io/support-faq/#/select-pool-to-delegate)",
+      "send": "no"
+    },
+    "es": {
+      "message": "\u00bfTiene dudas sobre qu\u00e9 pool debe elegir? Consulte la gu\u00eda dise\u00f1ada para ayudarle a tomar la decisi\u00f3n [aqu\u00ed](https://cardano-community.github.io/support-faq/#/es/select-pool-to-delegate)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u3069\u306e\u30d7\u30fc\u30eb\u3092\u59d4\u4efb\u3059\u308b\u304b\u306f\u3001\u6b21\u306e\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u3092\u53c2\u7167\u3057\u3066\u304f\u3060\u3055\u3044 [\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3](https://cardano-community.github.io/support-faq/#/select-pool-to-delegate)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Est\u00e1 confuso sobre qual pool voc\u00ea deve selecionar? Consulte a diretriz criada para ajud\u00e1-lo com sua tomada de decis\u00e3o [aqui](https://cardano-community.github.io/support-faq/#/select-pool-to-delegate)",
+      "send": "yes"
+    },
+    "zh": {
+      "message": "\u4e0d\u77e5\u9053\u5982\u4f55\u9009\u62e9\u6743\u76ca\u6c60\uff0c\u8bf7\u53c2\u8003[here](https://cardano-community.github.io/support-faq/#/select-pool-to-delegate)",
+      "send": "yes"
+    }
+  },
+  "developer": {
+    "de": {
+      "message": "Du kannst den unten aufgef\u00fchrten Gruppen beitreten um an den Diskussionen teilzunehmen :\n\n @IOHK\\_Marlowe - Diskussionen \u00fcber Marlowe\n @CardanoDevelopersOfficial - F\u00fcr andere Entwickler bezogenen Diskussionen\n [Link](https://www.reddit.com/r/CardanoDevelopers/) - Community Reddit f\u00fcr Entwickler\n [Link](https://forum.cardano.org/c/developers) - Entwickler Diskussionsbereich im Cardano Forum",
+      "send": "yes"
+    },
+    "description": "Information about dev groups",
+    "en": {
+      "message": "You can join the below groups for developer related discussions:\n\n @IOHK\\_Marlowe - For Marlowe related discussions\n @CardanoDevelopersOfficial - For other Developer related discussions\n [IOG Discord](https://discord.gg/inputoutput) - For IOG hosted community forum\n [Link](https://www.reddit.com/r/CardanoDevelopers/) - Community Reddit for Developers\n [Link](https://forum.cardano.org/c/developers) - Developer talk area on Cardano Forum",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Puede unirse a los siguientes grupos para debates relacionados con el desarrollo de :\n\n @IOHK\\_Marlowe - Para debates sobre Marlowe\n @CardanoDevelopersOfficial - Para temas \n [Link](https://www.reddit.com/r/CardanoDevelopers/) - Community Reddit for Developers\n [Enlace](https://forum.cardano.org/c/developers) - Developer talk area on Cardano Forum",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u958b\u767a\u95a2\u9023\u306e\u8b70\u8ad6\u306f\u4ee5\u4e0b\u306b\u3066\u53c2\u52a0\u3067\u304d\u307e\u3059:\n\n @IOHK\\_Marlowe - Marlowe\u95a2\u9023\u306e\u8b70\u8ad6\n @CardanoDevelopersOfficial - \u305d\u306e\u4ed6\u306e\u958b\u767a\u95a2\u9023\u306e\u8b70\u8ad6\n [Link](https://www.reddit.com/r/CardanoDevelopers/) - \u958b\u767a\u30b3\u30df\u30e5\u30cb\u30c6\u30a3 Reddit\n [Link](https://forum.cardano.org/c/developers) - Cardano Forum\u3067\u306e\u958b\u767a\u8005\u306e\u8b70\u8ad6",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Voc\u00ea pode participar dos grupos abaixo para discuss\u00f5es relacionadas a desenvolvimento:\n\n @IOHK\\_Marlowe - Para discuss\u00f5es relacionadas a Marlowe\n @CardanoDevelopersOfficial - Para outras discuss\u00f5es relacionadas a desenvolvimento\n [Link](https://www.reddit.com/r/CardanoDevelopers/) - Reddit page para desenvolvedores\n [Link](https://forum.cardano.org/c/developers) - \u00c1rea de conversa para desenvolvedores no Cardano Forum",
+      "send": "yes"
+    }
+  },
+  "explorer": {
+    "de": {
+      "message": "Du findest [hier](https://cardano-community.github.io/support-faq/#/explorers?id=list) eine Liste von Cardano Pool- und Blockexplorer",
+      "send": "yes"
+    },
+    "description": "List and feature comparison of blockchain explorers for Cardano",
+    "en": {
+      "message": "You can find a list of cardano pool and block explorers [here](https://cardano-community.github.io/support-faq/#/explorers?id=list)",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Puedes encontrar una lista de exploradores de pools y bloques en Cardano [aqu\u00ed](https://cardano-community.github.io/support-faq/#/es/explorers?id=list)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u30d7\u30fc\u30eb\u3084\u30d6\u30ed\u30c3\u30af\u306e\u30a8\u30af\u30b9\u30d7\u30ed\u30fc\u30e9\u30fc\u306e\u30ea\u30b9\u30c8\u306f [\u3053\u3061\u3089](https://cardano-community.github.io/support-faq/#/explorers?id=list)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Voc\u00ea pode encontrar uma lista de stake pools e exploradores de blocos da rede Cardano [aqui](https://cardano-community.github.io/support-faq/#/explorers?id=list)",
+      "send": "yes"
+    }
+  },
+  "keinzins": {
+    "de": {
+      "message": "Woher die Staking Rewards kommen und warum sie kein Zinssatz sind: https://forum.cardano.org/t/woher-die-staking-rewards-kommen-und-warum-sie-kein-zinssatz-sind/34601?u=adatainment",
+      "send": "yes"
+    }
+  },
+  "marketplace": {
+    "description": "Message to redirect users for thirdparty projects that cannot be verified",
+    "en": {
+      "message": "The [Cardano Foundation has a neutral stance](https://forum.cardano.org/t/maintaining-a-neutral-stance-the-role-of-the-foundation-as-cardano-grows/57365?u=lgbeano) and cannot verify the authenticity of each community project. However, the community can self-organise and have discussions about new projects on cardano ecosystem at @CardanoCommunityMarketplace group.",
+      "send": "no"
+    },
+    "jp": {
+      "message": "[Cardano Foundation\u306f\u4e2d\u7acb](https://forum.cardano.org/t/maintaining-a-neutral-stance-the-role-of-the-foundation-as-cardano-grows/57365?u=lgbeano) \u3067\u5404\u30b3\u30df\u30e5\u30cb\u30c6\u30a3 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u4fe1\u6191\u6027\u3092\u691c\u8a3c\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002\u305f\u3060\u3057\u3001\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u306f\u81ea\u5df1\u7d44\u7e54\u5316\u3057\u3001\u30ab\u30eb\u30c0\u30ce\u30a8\u30b3\u30b7\u30b9\u30c6\u30e0\u306e\u65b0\u3057\u3044\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u3064\u3044\u3066 @CardanoCommunityMarketplace \u30b0\u30eb\u30fc\u30d7\u3067\u8b70\u8ad6\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+      "send": "no"
+    }
+  },
+  "mute": {
+    "description": "Mute user for specified hours or days (or permanent). To be used as a reply to a message in group",
+    "none": {
+      "message": "Mute user for specified hours or days (or permanent). To be used as a reply to a message in group",
+      "send": "no"
+    }
+  },
+  "official": {
+    "description": "List of official community groups",
+    "en": {
+      "message": "You can find a list of all official Cardano groups [here](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Puede encontrar una lista de grupos oficiales de Cardano [aqu\u00ed](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u3059\u3079\u3066\u306e\u516c\u5f0f\u30ab\u30eb\u30c0\u30ce\u30b0\u30eb\u30fc\u30d7\u306e\u30ea\u30b9\u30c8\u306f [\u3053\u3061\u3089](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Voc\u00ea pode encontrar uma lista de grupos oficiais Cardano [aqui](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "zh": {
+      "message": "\u4f60\u53ef\u4ee5\u5728\u8fd9\u91cc\u627e\u5230\u6240\u6709Cardano\u5b98\u65b9\u9891\u9053 [aqu\u00ed](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    }
+  },
+  "pools": {
+    "de": {
+      "message": "M\u00f6chtest du einen Pool aus der DACH-Region unterst\u00fctzen?\n https://adafolio.com/portfolio/28f79582-0a08-11eb-87fc-0242ac150002",
+      "send": "yes"
+    },
+    "m\u00f6chtest": {
+      "message": "du einen Pool aus der DACH-Region unterst\u00fctzen?\n https://adafolio.com/portfolio/28f79582-0a08-11eb-87fc-0242ac150002",
+      "send": "no"
+    }
+  },
+  "poolvorstellung": {
+    "de": {
+      "message": "Poolwerbung ist in dieser Gruppe nicht erlaubt. Gerne kannst du deinen Pool unter den folgenden Links vorstellen:\nIm deutschen Forum: https://forum.cardano.org/c/deutsch/poolvorstellungen/123\nIm englischen Forum: https://forum.cardano.org/c/staking-delegation/stake-pool-introductions/118\nAuf Reddit: https://www.reddit.com/r/CardanoStakePools/\nIn Telegram: @adastakepools",
+      "send": "yes"
+    }
+  },
+  "pre\u00e7o": {
+    "pt": {
+      "send": "yes"
+    }
+  },
+  "report": {
+    "description": "Report message to mods for action",
+    "none": {
+      "message": "Report message to mods for action",
+      "send": "no"
+    }
+  },
+  "reward": {
+    "de": {
+      "message": "Das FAQ zu Stakingrewards kann [hier](https://cardano-community.github.io/support-faq/#/rewards) gefunden werden",
+      "send": "yes"
+    },
+    "description": "Information about Rewards FAQ",
+    "en": {
+      "message": "FAQ for staking delegation rewards can be found [here](https://cardano-community.github.io/support-faq/#/rewards)",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Las preguntas m\u00e1s frecuentes sobre las recompensas de las delegaciones se pueden encontrar [aqu\u00ed](https://cardano-community.github.io/support-faq/#/es/rewards)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u59d4\u4efb\u5831\u916c\u306e\u30b9\u30c6\u30fc\u30ad\u30f3\u30b0\u306b\u95a2\u3059\u308bFAQ\u306f [\u3053\u3061\u3089](https://cardano-community.github.io/support-faq/#/rewards)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Perguntas frequentes recompensas de delega\u00e7\u00e3o podem ser encontradas [aqui](https://cardano-community.github.io/support-faq/#/rewards)",
+      "send": "yes"
+    },
+    "zh": {
+      "message": "\u5173\u4e8e\u8d28\u62bc\u59d4\u6258\u5956\u52b1\u7684\u76f8\u5173\u95ee\u9898\u8bf7\u67e5\u770b [aqu\u00ed](https://cardano-community.github.io/support-faq/#/rewards)",
+      "send": "yes"
+    }
+  },
+  "rules": {
+    "description": "Point to conduct/rules of community",
+    "en": {
+      "message": "You can find the rules for community [here](https://t.me/CardanoAnnouncements/1077)",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Puede encontrar las reglas para la comunidad [aqu\u00ed](https://t.me/CardanoSpanishOfficial/3782)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u306e\u30eb\u30fc\u30eb\u306f [\u3053\u3061\u3089](https://t.me/CardanoAnnouncements/1077)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Voc\u00ea pode encontrar as regras da comunidade [aqui](https://t.me/CardanoAnnouncements/1077)",
+      "send": "yes"
+    }
+  },
+  "safety": {
+    "de": {
+      "message": "\ud83d\udea8Betrugswarnung\ud83d\udea8\n\nEs gibt keine Giveaways oder Airdrops! \nAdmins werden dich niemals pers\u00f6nlich kontaktieren!!\n\nBitte lies dir die [Sicherheitsregeln](https://cardano-community.github.io/support-faq/#/no-to-scam) auf Telegram durch!",
+      "send": "yes"
+    },
+    "description": "Safety guidance and awareness against common scams",
+    "en": {
+      "message": "\ud83d\udea8SCAM Alert\ud83d\udea8\n\nReminder if you missed to read the welcome message!\n\n- There are no free giveaways/airdrops!\n- If you receive a DM, assume it is scam!\n- Do not participate in give-aways, send funds or enter your keys after following some links!\n- There are impersonators across the crypto ecosystem.\n\nKindly familiarise with safety guidelines as per [here](https://forum.cardano.org/t/cardano-stay-safe-content-updated/28037), note that YOU are your OWN bank when it comes to crypto!",
+      "send": "no"
+    },
+    "es": {
+      "message": "\ud83d\udea8Alerta de ESTAFA\ud83d\udea8\n\nNo existen sorteos, obsequios (giveaways) o lanzamientos y entregas (airdrops) gratuitas.\nLos administradores nunca le escribir\u00e1n por privado (DM)!\n\nPor favor, consulte las directrices de seguridad en [esta](https://cardano-community.github.io/support-faq/#/es/no-to-scam) ayuda.",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\ud83d\udea8SCAM Alert\ud83d\udea8\n\n- \u7121\u6599\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u3084\u30a8\u30a2\u30c9\u30ed\u30c3\u30d7\u306f\u3042\u308a\u307e\u305b\u3093!\n- Admins\u306f\u7d76\u5bfe\u306b\u3042\u306a\u305f\u306bDM\u3057\u307e\u305b\u3093!\n- DM\u306e\u30ea\u30f3\u30af\u5148\u3067\u7d76\u5bfe\u306b\u30ea\u30ab\u30d0\u30ea\u30fc \u30d5\u30ec\u30fc\u30ba\u3092\u5165\u529b\u3057\u306a\u3044\u3067\u304f\u3060\u3055\u3044! \n\n\n\u5b89\u5168\u6027\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u3092\u3088\u304f\u8aad\u307f\u7406\u89e3\u3057\u3066\u304f\u3060\u3055\u3044 [\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3](https://cardano-community.github.io/support-faq/#/no-to-scam)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "\ud83d\udea8Alerta SCAM\ud83d\udea8\n\nN\u00e3o promevemos nenhuma promo\u00e7\u00e3o/airdrops!\nOs administradores nunca v\u00e3o mandar um DM para voc\u00ea primeiro!\n\nFamiliarize-se com as diretrizes de seguran\u00e7a [aqui](https://cardano-community.github.io/support-faq/#/no-to-scam)",
+      "send": "yes"
+    }
+  },
+  "sclist": {
+    "de": {
+      "message": "Du findest eine Liste aller Smart Contract Transaktionen [hier](https://cardanoscan.io/contractTransactions). Falls du dich \u00fcber die Projekte unterhalten m\u00f6chtest, die diese Smart Contracts benutzen, dann tritt bitte @CardanoCommunityMarketplace bei und verifiziere dich dort.",
+      "send": "no"
+    },
+    "en": {
+      "message": "You can find a list of smart contract transactions [here](https://cardanoscan.io/contractTransactions). The applications using these contracts are external to chain and can be discussed in @CardanoCommunityMarketplace",
+      "send": "yes"
+    }
+  },
+  "secure": {
+    "description": "Link for safety instructions",
+    "en": {
+      "message": "\ud83d\udea8SCAM Alert\ud83d\udea8\n\nReminder if you missed to read the welcome message!\n\n- There are no free giveaways/airdrops!\n- If you receive a DM, assume it is scam!\n- Do not participate in give-aways, send funds or enter your keys after following some links!\n- There are impersonators across the crypto ecosystem.\n\nKindly familiarise with safety guidelines as per [here](https://cardano-community.github.io/support-faq/#/no-to-scam?id=being-added-to-a-random-groupchannels), note that YOU are your OWN bank when it comes to crypto!",
+      "send": "yes"
+    }
+  },
+  "spo": {
+    "en": {
+      "message": "Please use @CardanoStakepoolWorkgroup for discussion relating to setup of node and pool ops",
+      "send": "no"
+    }
+  },
+  "spoad": {
+    "de": {
+      "message": "Bitte benutze einen der folgenden Kan\u00e4le f\u00fcr Inhalte welche Werbung enthalten:\n\n ***F\u00fcr SPO-Inhalte welche Werbung enthalten:*** \n - Telegram : @adastakepools\n - Forums: [hier](https://forum.cardano.org/c/english/stake-pool-introductions/118) oder [hier](https://forum.cardano.org/c/english/trading/12)\n - Reddit: [hier](https://www.reddit.com/r/CardanoStakePools/) oder [hier](https://www.reddit.com/r/CardanoMarkets/)\nCheck mit Moderatoren welche nicht die gleichen Werberichtlinen der Cardano Stiftung durchsetzen ",
+      "send": "yes"
+    },
+    "description": "Trigger to redirect ads to channels allowed",
+    "en": {
+      "message": "Please use one of the following mediums for contents that include advertisements instead of official channels:\n\n ***For SPO content that includes advertisement:*** \n - Telegram : @adastakepools\n - Forums: [here](https://forum.cardano.org/c/english/stake-pool-introductions/118) or [here](https://forum.cardano.org/c/english/trading/12)\n - Reddit: [here](https://www.reddit.com/r/CardanoStakePools/) or [here](https://www.reddit.com/r/CardanoMarkets/)\nCheck with moderators of non Cardano-Foundation operated channels for advertisement policies for those groups",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Por favor, en lugar de los canales oficiales, utilice uno de los siguientes medios para divulgar contenidos que incluyan publicidad:\n\n ***Para contenidos de SPO que incluyan publicidad:*** \n - Telegram : @adastakepools\n - Foros: [aqu\u00ed](https://forum.cardano.org/c/english/stake-pool-introductions/118) o [aqu\u00ed](https://forum.cardano.org/c/english/trading/12)\n - Reddit: [aqu\u00ed](https://www.reddit.com/r/CardanoStakePools/) o [aqu\u00ed](https://www.reddit.com/r/CardanoMarkets/)\nPregunte a los moderadores de los canales no operados por la Fundaci\u00f3n Cardano sobre las pol\u00edticas de publicidad de esos grupos.",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u5e83\u544a\u3092\u542b\u3080\u30b3\u30f3\u30c6\u30f3\u30c4\u306f\u3001\u516c\u5f0f\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u306f\u306a\u304f\u6b21\u306e\u3044\u305a\u308c\u304b\u306e\u30e1\u30c7\u30a3\u30a2\u3092\u4f7f\u7528\u3057\u3066\u304f\u3060\u3055\u3044:\n\n ***\u5e83\u544a\u3092\u542b\u3080SPO\u30b3\u30f3\u30c6\u30f3\u30c4:*** \n - Telegram : @adastakepools\n - Forums: [here](https://forum.cardano.org/c/english/stake-pool-introductions/118) or [here](https://forum.cardano.org/c/english/trading/12)\n - Reddit: [here](https://www.reddit.com/r/CardanoStakePools/) or [here](https://www.reddit.com/r/CardanoMarkets/)\nCheck \u30ab\u30eb\u30c0\u30ce\u8ca1\u56e3\u304c\u904b\u55b6\u3057\u3066\u3044\u306a\u3044\u30c1\u30e3\u30f3\u30cd\u30eb\u306f\u5e83\u544a\u30dd\u30ea\u30b7\u30fc\u306f\u5f53\u30c1\u30e3\u30f3\u30cd\u30eb\u306e\u30e2\u30c7\u30ec\u30fc\u30bf\u30fc\u306b\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Use uma das seguintes m\u00eddias para conte\u00fados que incluem an\u00fancios em vez de canais oficiais:\n\n ***Para conte\u00fado SPO que inclui propaganda:*** \n - Telegram : @adastakepools\n - Forums: [aqui](https://forum.cardano.org/c/english/stake-pool-introductions/118) ou [aqui](https://forum.cardano.org/c/english/trading/12)\n - Reddit: [aqui](https://www.reddit.com/r/CardanoStakePools/) or [aqui](https://www.reddit.com/r/CardanoMarkets/)\nVerifique com moderadores de canais n\u00e3o operados pela Cardano-Foundation as pol\u00edticas de publicidade para esses grupos",
+      "send": "yes"
+    }
+  },
+  "workgroupbasics": {
+    "en": {
+      "message": "This is a gentle reminder to all, the best practices workgroup is to encourage best practices - while having debates are absolutely fine, please do so without any personal insults, and/or breaking the [community rules](https://t.me/CardanoAnnouncements/1077) of the platform. If you feel someone is unfairly forcing you into a fight - please use `!report` in a reply to that message to notify moderators instead !!",
+      "send": "no"
+    }
+  },
+  "steuern": {
+    "de": {
+      "message": "Das Steuerthema ist nicht so einfach hier im Chat zu beantworten und die Meinungen gehen weit au\u00dfeinander.\n\nDie aktuelle Problematik ist hier gut dargestellt: https://cryptotax.io/staking-und-die-steuer\n\nZur Haltefrist findest du weitere Informationen hier: https://cryptotax.io/bitcoin-steuerfrei/\n\nDiskussion im Forum (Deutschland): https://forum.cardano.org/t/staking-und-die-steuern-in-deutschland-proof-of-stake/34023\n\nDiskussion im Forum (\u00d6sterreich): https://forum.cardano.org/t/kryptowahrungen-und-steuern-in-osterreich/45357",
+      "send": "yes"
+    },
+    "en": {
+      "send": "no"
+    }
+  },
+  "support": {
+    "de": {
+      "message": "Wenn du Hilfe mit dem Daedalus Wallet ben\u00f6tigst, dann er\u00f6ffne bitte ein Ticket unter [IOG Zendesk Support](https://iohk.zendesk.com/hc/en-us/requests/new).\n\n F\u00fcr alle anderen Anfragen benutze bitte die @CardanoCommunityTechSupport Gruppe.",
+      "send": "yes"
+    },
+    "description": "Trigger to support folks to appropriate groups",
+    "en": {
+      "message": "For assistance with Daedalus wallet, please raise a request at [IOG Zendesk Support](https://iohk.zendesk.com/hc/en-us/requests/new).\n\nFor all other queries, please check the pinned message in @CardanoCommunityTechSupport.\n\nNote that you will ***NOT be contacted first by any admin/bot***. If you receive a message from anyone, assume it's a scam.",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Para obtener ayuda acerca de la billetera (wallet) Daedalus, por favor, haga una solicitud al [Soporte Zendesk de IOG](https://iohk.zendesk.com/hc/en-us/requests/new).\n\nPara todas las dem\u00e1s preguntas, consulte el mensaje fijado en @CardanoCommunityTechSupport.\n\nTenga en cuenta que ***nuestros administradores o bots NUNCA har\u00e1n primero contacto con usted***. Si alguien le escribe un mensaje, asuma que se trata de una estafa.",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "Daedalus\u30a6\u30a9\u30ec\u30c3\u30c8\u306e\u30b5\u30dd\u30fc\u30c8\u304c\u5fc5\u8981\u306a\u5834\u5408\u306f\u3001\u6b21\u306b\u3054\u9023\u7d61\u304f\u3060\u3055\u3044 [IOG Zendesk Support](https://iohk.zendesk.com/hc/en-us/requests/new).\n\n\u305d\u306e\u4ed6\u306e\u8cea\u554f\u306b\u3064\u3044\u3066\u306f\u3001\u6b21\u306e\u30c1\u30e3\u30c3\u30c8\u306e\u30d4\u30f3\u7559\u3081\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044 @CardanoCommunityTechSupport.\n\n ***\u7ba1\u7406\u8005/\u30dc\u30c3\u30c8\u304b\u3089\u3042\u306a\u305f\u3078\u3044\u304d\u306a\u308a\u9023\u7d61\u304c\u6765\u308b\u3053\u3068\u306f\u306a\u3044\u306e\u3067\u6ce8\u610f\u3057\u3066\u304f\u3060\u3055\u3044***. \u3082\u3057\u305d\u306e\u3088\u3046\u306a\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u53d7\u3051\u53d6\u3063\u305f\u3089\u8a50\u6b3a\u3067\u3059",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Para obter ajuda com a carteira Daedalus, fa\u00e7a uma solicita\u00e7\u00e3o em [IOG Zendesk Support](https://iohk.zendesk.com/hc/pt-us/requests/new).\n\nFor all other queries, please check the pinned message in @CardanoCommunityTechSupport.\n\nNote that you will ***NOT be contacted first by any admin/bot***. If you receive a message from anyone, assume it's a scam.",
+      "send": "yes"
+    }
+  },
+  "tps": {
+    "de": {
+      "message": "Die Single-Thread-Leistung in Shelley liegt derzeit bei ca. 250 TPS. Aber bitte, schau dir dieses Video an um zu verstehen warum TPS f\u00fcr Blockchain so aussagekr\u00e4ftig wie Videos pro Sekunde f\u00fcr Festplatten ist: https://www.youtube.com/watch?v=gpSnyCn2s9U",
+      "send": "yes"
+    }
+  },
+  "trading": {
+    "de": {
+      "message": "Wenn ihr euch \u00fcber Preise oder die Marktsituation unterhalten m\u00f6chtet, dann benutzt bitte diesen Channel :\n\n>> @CardanoTradingGerman",
+      "send": "yes"
+    },
+    "description": "Trigger to direct to trading groups",
+    "en": {
+      "message": "For price/marketcap/investment returns/trading talk, please join the trade chat:\n\n>> @CardanoTradingOfficial",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Para hablar sobre precios, capital de mercado, rendimientos de la inversi\u00f3n y operaciones, por favor \u00fanase al grupo de trading\n\n>> @CardanoTradingOfficial",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u4fa1\u683c/\u6642\u4fa1\u7dcf\u984d/\u6295\u8cc7\u53ce\u76ca\u7387/\u30c8\u30ec\u30fc\u30c9\u306e\u8a71\u306b\u3064\u3044\u3066\u306f\u3001\u6b21\u306e\u5c02\u7528\u30c1\u30e3\u30c3\u30c8\u306b\u53c2\u52a0\u3057\u3066\u304f\u3060\u3055\u3044:\n\n>> @CardanoJapanTrading",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Para conversar sobre pre\u00e7o / mercado, participe do group de trade :\n\n>> @CardanoTradingOfficial",
+      "send": "yes"
+    }
+  },
+  "triggername": {
+    "es": {
+      "message": "Response",
+      "send": "no"
+    }
+  },
+  "unofficial": {
+    "description": "List of unofficial supported community groups",
+    "en": {
+      "message": "You can find a list of community owned Cardano groups [here](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Puede encontrar un listado de los grupos no oficiales controlados por la Comunidad [aqu\u00ed](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u904b\u55b6\u306eCardano\u30b0\u30eb\u30fc\u30d7\u306e\u30ea\u30b9\u30c8\u306f [\u3053\u3061\u3089](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Voc\u00ea pode encontrar uma lista de grupos de Cardano pertencentes \u00e0 comunidade [aqui](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    },
+    "zh": {
+      "message": "\u4f60\u53ef\u4ee5\u5728\u8fd9\u91cc\u627e\u5230Cardano\u7684\u9891\u9053 [here](https://forum.cardano.org/t/cardano-official-community-channel-list/20046)",
+      "send": "yes"
+    }
+  },
+  "wallet": {
+    "de": {
+      "message": "F\u00fcr eine vollst\u00e4ndige Liste aller Wallets, schau [hier](https://cardano-community.github.io/support-faq/#/Wallets/list)",
+      "send": "yes"
+    },
+    "description": "List and feature comparison of wallets available for Cardano",
+    "en": {
+      "message": "For a list of wallets, kindly visit [this link](https://cardano-community.github.io/support-faq/#/Wallets/list)",
+      "send": "yes"
+    },
+    "es": {
+      "message": "Para ver una lista de wallets disponibles para Cardano, por favor visite [this link](https://cardano-community.github.io/support-faq/#/es/Wallets/list)",
+      "send": "yes"
+    },
+    "jp": {
+      "message": "\u30a6\u30a9\u30ec\u30c3\u30c8\u306e\u30ea\u30b9\u30c8\u306b\u3064\u3044\u3066\u306f\u3001\u6b21\u306e\u30ea\u30f3\u30af\u306b\u30a2\u30af\u30bb\u30b9\u3057\u3066\u304f\u3060\u3055\u3044 [\u3053\u3061\u3089](https://cardano-community.github.io/support-faq/#/Wallets/list)",
+      "send": "yes"
+    },
+    "pt": {
+      "message": "Para obter uma lista de carteiras, visite [este link](https://cardano-community.github.io/support-faq/#/Wallets/list)",
+      "send": "yes"
+    }
+  },
+  "warn": {
+    "description": "Warn user being replied to for specified hours/days or forever",
+    "none": {
+      "message": "Warn user being replied to for specified hours/days or forever",
+      "send": "no"
+    }
+  },
+  "welcome": {
+    "de": {
+      "message": "Willkommen in der offiziellen deutschen Cardano Gruppe ##uname## \n\nBitte nimm dir kurz Zeit und lies dir folgendes durch:\n\n \\- [Community Guidelines](https://t.me/CardanoAnnouncements/1077)\n \\- [Sicherheitshinweise](https://forum.cardano.org/t/cardano-stay-safe-content-updated/28037)\n\n \\- Klick [hier](https://t.me/CardanoTradingGerman) wenn du \u00fcber das Investieren, Traden oder Preise diskutieren m\u00f6chtest\\.\n \\- Klick [hier](https://t.me/cardanoreporttoadmin) wenn du ein Problem hast oder jemanden melden m\u00f6chtest\\.\n\nViel Spass\\!",
+      "send": "no"
+    },
+    "description": "Welcome message for new participants",
+    "en": {
+      "message": "Welcome ##uname## to ##official## Telegram Community\\.\nPlease read the following:\n\n \\- [Community Guidelines](https://t.me/CardanoAnnouncements/1077)\n \\- [Safety Instructions](https://forum.cardano.org/t/cardano-stay-safe-content-updated/28037)\n\n \\- Click [here](https://t.me/cardanotradingofficial) if you want to talk about trading, investing and price\n \\- Click [here](https://t.me/cardanoreporttoadmin) if you're having issues with our Telegram channels\n\nWe hope you enjoy your time here\\!",
+      "send": "no"
+    },
+    "es": {
+      "message": "Hola ##uname##\\! Bienvenido al grupo Oficial en Espa\u00f1ol de la Comunidad Cardano en Telegram, gestionado por la Fundaci\u00f3n Cardano\\!\\. \ud83e\udd29\n\n Por favor \ud83d\ude4f, t\u00f3mese un momento y lea a continuaci\u00f3n:\ud83d\udc47\n\n1\ufe0f\u20e3 Los administradores NUNCA LE ESCRIBIRAN POR PRIVADO \\(DM\\) \\- los estafadores crean cuentas PARECIDAS a las nuestras\\. \u274c\n2\ufe0f\u20e3 No existen sorteos \\(giveaways\\) ni lanzamientos o regalos \\(airdrops\\)\\! Considere establecer su [configuraci\u00f3n en Telegram de esta forma](https://cardano-community.github.io/support-faq/#/es/no-to-scam?id=being-added-to-a-random-groupchannels) \u274c\n3\ufe0f\u20e3 Lea los mensajes fijados para obtener las \u00faltimas actualizaciones\\! \u2b06\ufe0f\n\n Lea nuestras [Intrucciones de Seguridad](https://forum.cardano.org/t/serie-de-cardano-mantente-seguro-contenidos-actualizado/28053) y las [Directrices de la Comunidad](https://t.me/CardanoSpanishOfficial/3782)\\.\n\nReporte las estafas en el grupo @CardanoReportToAdmin\\!\n\nPara hablar sobre precios, capital de mercado, rendimientos de inversi\u00f3n y operaciones, por favor \u00fanase al grupo de trading: @CardanoTradingOfficial\n\n Que disfrute su estancia\\! \ud83d\udc4d",
+      "send": "no"
+    },
+    "jp": {
+      "message": "\u3088\u3046\u3053\u305d ##uname## \u3055\u3093\uff01 ##official## Telegram Community\u3067\u3059\\.\n\u6b21\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044:\n\n \\- [\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3](https://t.me/CardanoAnnouncements/1077)\n \\- [\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3](https://forum.cardano.org/t/cardano-stay-safe-content-updated/28037)\n\n \\-  [\u30ea\u30f3\u30af](https://t.me/CardanoJapanTrading) \u3082\u3057\u4fa1\u683c\u3084\u6295\u8cc7\u3084\u30c8\u30ec\u30fc\u30c9\u306e\u8a71\u3092\u3057\u305f\u3044\u5834\u5408\u306f\u3053\u3061\u3089\n \\-  [\u30ea\u30f3\u30af](https://t.me/cardanoreporttoadmin) \u3082\u3057\u30c6\u30ec\u30b0\u30e9\u30e0\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u554f\u984c\u304c\u3042\u3063\u305f\u5834\u5408\u306f\u3053\u3061\u3089\n\n\u30c6\u30ec\u30b0\u30e9\u30e0\u3067\u306e\u4f1a\u8a71\u3092\u304a\u697d\u3057\u307f\u304f\u3060\u3055\u3044\uff01",
+      "send": "no"
+    },
+    "pt": {
+      "message": "Bem vindo ao ##official## Comunidade do Telegram ##uname##\\! Moderado por ##official2##\\. \ud83e\udd29\n\n\ud83d\ude4f Por favor, pare por um momento e veja abaixo:\ud83d\udc47\n\n1\ufe0f\u20e3 VERIFIQUE\\. Os administradores NUNCA v\u00e3o enviar DM para voc\u00ea primeiro \\- os golpistas criam contas que SE PARECEM com as dos administradores\\. \ud83d\udea8\n2\ufe0f\u20e3 Leia Online nossas [Instru\u00e7\u00f5es de Seguran\u00e7a](https://forum.cardano.org/t/cardano-stay-safe-content-updated/28037) & [Diretrizes da Comunidade](https://t.me/CardanoAnnouncements/1077)\\. \ud83e\udd13\n3\ufe0f\u20e3 LEIA as mensagens fixadas para obter as atualiza\u00e7\u00f5es mais recentes\\! \u2b06\ufe0f\n\nAproveite a estadia\\! \ud83d\udc4d",
+      "send": "no"
+    },
+    "zh": {
+      "message": "\u6b22\u8fce ##uname## to Telegram\u793e\u533a\\.\n\u8bf7\u9605\u8bfb:\n\n \\- [\u793e\u533a\u6307\u5357](https://t.me/CardanoAnnouncements/1077)\n \\- [\u5b89\u5168\u63d0\u793a](https://forum.cardano.org/t/cardano-stay-safe-content-updated/28037)\n\n \\- \u70b9\u51fb [here](https://t.me/cardanotradingofficial) \u5982\u679c\u4f60\u60f3\u8981\u8ba8\u8bba\u4ef7\u683c\u65b9\u9762\u7684\u8bdd\u9898\n \\- \u70b9\u51fb [here](https://t.me/cardanoreporttoadmin) \u5982\u679c\u4f60\u6709\u95ee\u9898\n\n\u6b22\u8fce\u4f60\u7684\u52a0\u5165\\!",
+      "send": "no"
+    }
+  },
+  "wenmoon": {
+    "description": "Temporary - GIF to respond to when moon or when dollar questions",
+    "en": "For price/market talk, please join the trade chat:\n\n>> @CardanoTradingOfficial",
+    "send": "no"
+  },
+  "whydeleted": {
+    "en": {
+      "message": "Apologies if you think your message was deleted incorrectly by auto-delete rule. While we understand that not all messages intend to deviate discussions - telegram platform, in it's current state, does not offer optimal security control to prevent shills/fake IDs that join groups. We are gradually rolling out a compulsory human verification process that will help us ease out auto-delete rules and make it easier for folks to discuss topics, but we have to place it delicately. Appreciate your patience while we roll out the process.",
+      "send": "no"
+    }
+  }
+}
