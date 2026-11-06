@@ -7,7 +7,7 @@ hide:
 
 Currently, there are 3 bots for Cardano ecosystem. Below is a high level overview for each of them:
 
-  1. @CardanoOfficialNews_bot - This is a news propogation bot , that can used to bridge the announcements from different IOG/Emurgo/CF channels on to target groups. Changing options for any of the administrative commands is currently only available to CM leads (and maintainer of the bot).  
+  1. @CardanoOfficialNews_bot - This is a news propagation bot that posts a short link preview for new announcements from different IOG/Emurgo/CF channels into target groups. Changing options for any of the administrative commands is currently only available to CM leads (and maintainer of the bot).
   2. @Modlogcollector - This bot (telegram account type: user) is to assist ambassadors with tasks to help out moderation activities across different groups, as well as provide Proof of Work for their moderation activities. Access can be gained to work with this bot by joining Moderation Logs Channel.  
   3. @Charlie_Cardano_bot (alias: @Chanti_Cardano_bot) - These bots are designed to self-moderate chats using auto-delete keywords, responses for triggers (eg: #trading will respond with pre-defined response). Access can be gained to work with this bot by joining Moderation Logs Channel.  
 
@@ -27,18 +27,18 @@ The bots perform quite a few tasks summarised (not limited to) below:
   6. Maintain an offline warn system - Telegram natively does not have a warn system, but bots can help maintain warn counts across groups for each users.
   7. Provide Proof of Work for every moderator to be able to insert proof of his work for given month as image.
   8. Allow moderators to ban/unban users within group or across all groups.
-  9. Propogate news across ecosystem.
+  9. Propagate news across ecosystem.
   10. Get an audience member (unique vs total) count across the groups.
 
 ## Onboarding
 
 ### For ambassadors
 
-To be eligible to work with the bots, all an ambassador needs to do is join the [Moderation logs channel](https://t.me/joinchat/R8-HXiGqAV37gO_P).
+To be eligible to work with the bots, all an ambassador needs to do is join the [Moderation logs channel](https://t.me/joinchat/R8-HXiGqAV37gO_P). Access follows channel membership: leaving the channel removes the moderator from @Modlogcollector's admin list.
 
 ### Test access
 
-Once joined, to test their access - they can send `/proof` in a DM to @Modlogcollector (or in the moderation logs channel), and ensure that they receive a screenshot in DM by @Modlogcollector with a summary view of their activity for current month - starting from 1st of the month.
+Once joined, to test their access - they can send `/proof` in a DM to @Modlogcollector, and ensure that they receive a screenshot with a summary view of their activity for current month - starting from 1st of the month.
 
 ## Command reference
 
@@ -47,10 +47,10 @@ All the commands below are issued by moderators. Unless stated otherwise, the co
 The accepted command prefixes depend on the bot:
 
   - @Charlie_Cardano_bot and @Chanti_Cardano_bot accept `/`, `!` and `#` - eg: `/ban`, `!ban` and `#ban` are the same command.
-  - @modlogcollector accepts `/` and `!` - eg: `/proof` and `!proof` are the same command.
+  - @modlogcollector accepts `/` and `!` in a direct message - eg: `/proof` and `!proof` are the same command. It no longer processes commands in the moderation logs channel.
   - @CardanoOfficialNews_bot only accepts `/`.
 
-Users can be referred to by their Telegram UUID (eg: `#137295212` or `#u_137295212`) or by their handle (eg: `@rdlrt`). A bot can only act on a user it has already seen, so the UUID form is the reliable one.
+Users can be referred to by their Telegram UUID (eg: `#137295212` or `#u_137295212`) or by their handle (eg: `@rdlrt`). A numeric UUID works even if the bot has not seen the user; an `@handle` only resolves for users the bot already knows, so the UUID form is the reliable one.
 
 Groups also answer to the trigger keywords (eg: `#trading`, `/rules`, `#price`) - the full list is published in [triggers.json](../JSONs/triggers.json) and can be downloaded with `/list` in a DM with @Charlie_Cardano_bot.
 
@@ -63,7 +63,7 @@ Users can use administrative commands below in *reply to user's messages* in gro
 |`/ban reason`        | Ban user in the group                                                          | Group only |
 |`/warn reason`       | Warn user for violation of a rule (2nd warning mutes for 1 hour, 3rd warning mutes indefinitely) | Warn count: all groups |
 |`/unwarn reason`     | Remove a warning and unmute the user                                          | Warn count: all groups |
-|`/mute 1d reason`    | Mute user for the given period - hours (eg: `1h`), days (eg: `1d`), or no period at all for an indefinite mute | Group only |
+|`/mute 1d reason`    | Mute user for the given period - only `h` (hours, eg: `1h`) and `d` (days, eg: `1d`) are parsed. Any other value is treated as an indefinite mute | Group only |
 |`/btl reason`        | Kick (not ban) user from the group, they can join back again                   | Group only |
 |`/uv reason`          | Kick unverified user across all verify-enabled groups                          | Verify-enabled groups |
 |`/report`            | Forward the replied message to the moderation logs channel and notify the admins | Group only |
@@ -71,36 +71,34 @@ Users can use administrative commands below in *reply to user's messages* in gro
 |`/q`                 | Show the forum account and verification status of the replied user (`/q #u_137295212` in the moderation logs channel) | Group only |
 |`/news`              | Post the latest Cardano headlines in the group                                | Group only |
 |`/price`              | Post the current ADA price in a trade group                                   | Group only |
-|`/remindmein 1h text`| Set a reminder for the group (admins only) - the period is given as `30s`, `2h`, `1d`, `1w`, `1m` or `1y`. Enabled on @Charlie_Cardano_bot only | Group only |
+|`/remindmein 1h text`| Set a reminder for the group (admins only) - the period is given as `30s`, `2h`, `1d`, `1w`, `1m` or `1y` (`m` is months, not minutes). The reminder is posted in the same forum topic. Enabled on @Charlie_Cardano_bot only | Group only |
 
-### Actions in moderation logs group or DM with @modlogcollector bot
+Administrative actions are refused when the target is an administrator or the bot account itself.
 
-Below is a list of commands that moderators can use in DM with @modlogcollector. Same commands will also work in moderation logs channel.
+### Actions in DM with @modlogcollector bot (DM only)
+
+Below is a list of commands that moderators can use in DM with @modlogcollector. The bot no longer processes commands in the moderation logs channel; any other command sent to it is redirected to @Charlie_Cardano_bot. It also no longer scans group messages for auto-deletion - that is handled by @Charlie_Cardano_bot. The moderation logs channel itself is excluded from the recent-action scan and is not added by `/upd`, so activity there is not mirrored back into it.
 
 | Command               | Description                                                                    | Scope      |
 |-----------------------|--------------------------------------------------------------------------------|------------|
 |`/ping`                | Check that the moderator is alive and report how many groups/admins it watches | All groups |
-|`/upd`                 | Refresh the group list and the moderator list the bot watches                 | All groups |
-|`/b #137295212 reason` | Ban user whose UUID is 137295212 across all Cardano groups                     | All groups |
-|`/u #137295212 reason` | UnBan user whose UUID is 137295212 across all Cardano groups                   | All groups |
-|`/mediaban #137295212 reason`| Restrict user whose UUID is 137295212 from sending media on Cardano groups| All groups |
-|`/backtolobby #137295212 reason`| Send user 137295212 back to lobby (kick from private groups like tech support)| Private groups |
-|`/uvall #group`        | Mute all the unverified users in all the groups (or in `#group` alone)          | All groups |
+|`/upd`                 | Rebuild the group list (including groups without a public handle) and the moderator list the bot watches; stale groups and moderators who left the log channel are removed | All groups |
+|`/uvall #group`        | Mute unverified users in `#group` (defaults to `#catalystproposers`), skipping administrators and bots | Selected group |
 |`/proof 8`             | Provide proof of work for top 6 groups moderator contributed to (8 is month of report)      | All groups |
 |`/proof @rdlrt 8`      | Provide the proof of work of another moderator (CF moderators only)            | All groups |
 |`!audience_numbers`    | Report the member count of every group watched by the bot (CF members only)    | All groups |
 
 Notes:
 
-  - `/b` and `/u` also accept the aliases `/banu` and `/unban`/`/unmute`, and the target can be given as `@handle` instead of a UUID.
   - `/proof` accepts an optional month and an optional year - eg: `/proof 8 2021`. Without them the current month is used.
   - `/uvall` mutes the unverified users, it does not ban them.
+  - The moderator list is rebuilt from the current members of the moderation logs channel at startup, on membership changes and on `/upd`; leaving the channel removes access.
 
-### Actions in moderation logs group or DM with @Charlie_Cardano_bot bot
+### Cross-group actions in DM with @Charlie_Cardano_bot (or in the moderation logs channel)
 
-These commands are the bot equivalent of the @modlogcollector commands above - they are queued and applied in the background across all the groups.
+These commands are handled by @Charlie_Cardano_bot. Each action is queued and applied in the background across all moderated groups, and the result is posted in the moderation logs channel.
 
-They are currently switched off in the bot configuration (`modcommands`) and can be turned on by the bot maintainer.
+They are enabled on @Charlie_Cardano_bot (`modcommands`); @Chanti_Cardano_bot keeps them disabled.
 
 | Command               | Description                                                                    | Scope      |
 |-----------------------|--------------------------------------------------------------------------------|------------|
@@ -108,6 +106,12 @@ They are currently switched off in the bot configuration (`modcommands`) and can
 |`/u #137295212 reason` | UnBan user whose UUID is 137295212 across all Cardano groups                   | All groups |
 |`/mediaban #137295212 reason`| Restrict user whose UUID is 137295212 from sending media on Cardano groups| All groups |
 |`/backtolobby #137295212 reason`| Send user 137295212 back to lobby (kick from private groups like tech support)| Private groups |
+
+Notes:
+
+  - `/b` and `/u` also accept the aliases `/banu` and `/unban`/`/unmute`.
+  - The target can be given as a numeric UUID (`#137295212` or `#u_137295212`) or as an `@handle` for a user the bot already knows.
+  - Moderator access for these commands follows the @Modlogcollector admin list, which follows membership of the moderation logs channel; @Charlie_Cardano_bot also keeps its own configured admins as a fallback.
 
 ### Verification commands in DM with @Charlie_Cardano_bot bot
 
@@ -138,8 +142,6 @@ They are currently switched off in the bot configuration (`modcommands`) and can
 |`/trigger name en text`| Set the response of a trigger for a language                                    |
 |`/ctrigger name en yes`| Turn the auto response of a trigger on or off for a language                   |
 |`/triggerdesc name text`| Set the description of a trigger                                               |
-|`/addme <password>`    | Register yourself as an authorized user of the bot                              |
-|`/rmme`                | Remove your own registration as an authorized user of the bot                  |
 |`/ul_f5`               | Clean up the empty entries left in the bot's user database                      |
 
 ### Administration commands in DM with @CardanoOfficialNews_bot bot
@@ -157,7 +159,8 @@ They are currently switched off in the bot configuration (`modcommands`) and can
 |`/crm #channel`        | Remove a channel from the broadcast source list                                |
 |`/taglist`             | List the groups the bot relays to, with their relay status                     |
 |`/ctaglist`            | List the source channels the bot relays from, with their send status           |
-|`/deltxt text`         | Delete the relayed announcements containing the given text                     |
+
+Newsbot relays a short message with a preview link to the original announcement. It does not keep a copy of relayed messages, so edits and deletions in the source channel are not mirrored.
 
 ### Group onboarding
 
