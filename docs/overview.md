@@ -60,7 +60,7 @@ Users can use administrative commands below in *reply to user's messages* in gro
 
 | Command             | Description                                                                    | Scope      |
 |---------------------|--------------------------------------------------------------------------------|------------|
-|`/ban reason`        | Ban user in the group                                                          | Group only |
+|`/ban [reason]`      | Kick user for 60 minutes in every group they are in and reset their verification | All groups (@Charlie) / Group only (@Chanti) |
 |`/warn reason`       | Warn user for violation of a rule (2nd warning mutes for 1 hour, 3rd warning mutes indefinitely) | Warn count: all groups |
 |`/unwarn reason`     | Remove a warning and unmute the user                                          | Warn count: all groups |
 |`/mute 1d reason`    | Mute user for the given period - only `h` (hours, eg: `1h`) and `d` (days, eg: `1d`) are parsed. Any other value is treated as an indefinite mute | Group only |
@@ -102,7 +102,7 @@ They are enabled on @Charlie_Cardano_bot (`modcommands`); @Chanti_Cardano_bot ke
 
 | Command               | Description                                                                    | Scope      |
 |-----------------------|--------------------------------------------------------------------------------|------------|
-|`/b #137295212 reason` | Ban user whose UUID is 137295212 across all Cardano groups                     | All groups |
+|`/b #137295212 [reason]` | Kick user whose UUID is 137295212 for 60 minutes in every group they are in and reset their verification | All groups |
 |`/u #137295212 reason` | UnBan user whose UUID is 137295212 across all Cardano groups                   | All groups |
 |`/mediaban #137295212 reason`| Restrict user whose UUID is 137295212 from sending media on Cardano groups| All groups |
 |`/backtolobby #137295212 reason`| Send user 137295212 back to lobby (kick from private groups like tech support)| Private groups |
@@ -131,7 +131,7 @@ Notes:
 |`/on #group`           | Turn the broadcast reception on for a group                                    |
 |`/off #group`          | Turn the broadcast reception off for a group                                   |
 |`/rm #group`           | Remove a group from the broadcast recipient list                               |
-|`/readmin`             | Refresh the moderator list and re-promote the moderators in the groups          |
+|`/readmin`             | Refresh the moderator list, re-promote moderators where the bot is admin, and report groups where it is not |
 |`/counts`              | Report the member count of every group and channel                             |
 |`/delwordadd word`     | Add a word (case insensitive) to the auto-delete list                           |
 |`/delwordrm word`      | Remove a word from the auto-delete list                                         |
